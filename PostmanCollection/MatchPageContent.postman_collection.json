@@ -1,0 +1,22 @@
+{
+	"variables": [],
+	"info": {
+		"name": "MatchPageContent",
+		"_postman_id": "a70b3b78-9bdc-6b63-a1c9-7f97180f54a7",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "PageSearch",
+			"request": {
+				"url": "",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
